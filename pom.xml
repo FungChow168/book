@@ -14,7 +14,7 @@
 	<name>webapp</name>
 	<description>Spring Web app</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
